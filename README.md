@@ -4,5 +4,5 @@
 
 
 ![AWS](https://img.shields.io/badge/AWS-VPC%20Design-FF9900?style=flat-square&logo=amazonaws)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
+![Status](https://img.shields.io/badge/Status-%20Complete-green?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
